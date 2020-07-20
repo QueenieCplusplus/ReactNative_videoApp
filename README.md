@@ -35,4 +35,7 @@ using expo, not npm
           />);
     }
 
+# Ref Doc
+
+  https://docs.expo.io/versions/latest/sdk/video/
 
