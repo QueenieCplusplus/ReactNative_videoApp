@@ -3,6 +3,8 @@ using expo, not npm
 
 # expo install 
 
+  $ expo install expo-av
+
 # CodeLine
 
     import React from 'react';
